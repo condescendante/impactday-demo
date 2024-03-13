@@ -9,7 +9,6 @@ import {
     Grid,
     Heading,
 } from '@chakra-ui/react';
-import ButtonAppBar from '../Components/ButtonAppBar';
 import PromptSelector from '../Components/PromptSelector';
 import ImageCard from '../Components/ImageCard';
 import ncsrhlogo from '../ncs_rh_logo.jpg';
